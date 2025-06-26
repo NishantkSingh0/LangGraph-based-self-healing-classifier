@@ -1,0 +1,10 @@
+transformers==4.40.2
+datasets==2.19.1
+torch>=2.0.0
+peft==0.11.1
+langgraph==0.0.46
+langchain-core==0.1.48
+opendatasets==0.1.22
+pandas==2.2.2
+numpy==1.26.4
+tqdm==4.66.4
