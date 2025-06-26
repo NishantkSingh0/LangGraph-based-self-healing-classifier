@@ -83,6 +83,8 @@ graph.add_edge("fallback", END)
 
 ## CLI Usage
 
+`Live Cloud notebook execution:` <a href="https://colab.research.google.com/drive/1FD5NqfWS5KR_QUrztflAvXYV90N3PPKK?usp=sharing" target="_blank"> Colab <a/>
+
 ### Launch the app:
 
 ```bash
@@ -134,6 +136,4 @@ Final Label: Negative (Corrected via user clarification)
 * KaggleDataset
 * Python 3.10+
 * CLI + Structured Logging
-
-`Live Cloud notebook execution:` <a href="https://colab.research.google.com/drive/1FD5NqfWS5KR_QUrztflAvXYV90N3PPKK?usp=sharing" target="_blank"> IMDB Dataset of 50K Movie Reviews <a/>
 
