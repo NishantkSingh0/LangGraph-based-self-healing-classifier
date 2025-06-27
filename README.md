@@ -1,6 +1,6 @@
 # 🔄 Self-Healing Text Classifier using LangGraph & Fine-Tuned Transformer
 
-This project implements a **self-healing classification DAG** using [LangGraph](https://github.com/langchain-ai/langgraph) with a fine-tuned transformer model (e.g., DistilBERT). It performs **text classification** with a **fallback strategy** triggered on low-confidence predictions, enabling human-in-the-loop recovery.
+This project implements a **self-healing classification DAG** using [LangGraph](https://github.com/langchain-ai/langgraph) with a fine-tuned transformer model (DistilBERT). It performs **text classification** with a **fallback strategy** triggered on low-confidence predictions, enabling human-in-the-loop recovery.
 
 <br><br>
 
